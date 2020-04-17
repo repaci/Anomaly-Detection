@@ -1,6 +1,6 @@
 ---
 title: "dipdetect"
-author: "Charlie Repaci"
+author: "Charlie Repaci, Narmada Venkateswaran, Samin Charepoo"
 date: "4/17/2020"
 output: html_document
 ---
