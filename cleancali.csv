@@ -1,0 +1,945 @@
+﻿date,county,type,num,id
+4/13/20,"Alameda County, California",positive,821,1
+4/13/20,"Alpine County, California",positive,1,2
+4/13/20,"Amador County, California",positive,7,3
+4/13/20,"Butte County, California",positive,15,4
+4/13/20,"Calaveras County, California",positive,9,5
+4/13/20,"Colusa County, California",positive,3,6
+4/13/20,"Contra Costa County, California",positive,581,7
+4/13/20,"Del Norte County, California",positive,2,8
+4/13/20,"El Dorado County, California",positive,34,9
+4/13/20,"Fresno County, California",positive,209,10
+4/13/20,"Glenn County, California",positive,3,11
+4/13/20,"Humboldt County, California",positive,50,12
+4/13/20,"Imperial County, California",positive,100,13
+4/13/20,"Inyo County, California",positive,12,14
+4/13/20,"Kern County, California",positive,446,15
+4/13/20,"Kings County, California",positive,10,16
+4/13/20,"Lake County, California",positive,4,17
+4/13/20,"Lassen County, California",positive,0,18
+4/13/20,"Los Angeles County, California",positive,9367,19
+4/13/20,"Madera County, California",positive,33,20
+4/13/20,"Marin County, California",positive,144,21
+4/13/20,"Mariposa County, California",positive,0,22
+4/13/20,"Mendocino County, California",positive,4,23
+4/13/20,"Merced County, California",positive,60,24
+4/13/20,"Modoc County, California",positive,0,25
+4/13/20,"Mono County, California",positive,23,26
+4/13/20,"Monterey County, California",positive,89,27
+4/13/20,"Napa County, California",positive,34,28
+4/13/20,"Nevada County, California",positive,34,29
+4/13/20,"Orange County, California",positive,1313,30
+4/13/20,"Placer County, California",positive,116,31
+4/13/20,"Plumas County, California",positive,4,32
+4/13/20,"Riverside County, California",positive,1751,33
+4/13/20,"Sacramento County, California",positive,724,34
+4/13/20,"San Benito County, California",positive,38,35
+4/13/20,"San Bernardino County, California",positive,925,36
+4/13/20,"San Diego County, California",positive,1849,37
+4/13/20,"San Francisco County, California",positive,959,38
+4/13/20,"San Joaquin County, California",positive,259,39
+4/13/20,"San Luis Obispo County, California",positive,107,40
+4/13/20,"San Mateo County, California",positive,679,41
+4/13/20,"Santa Barbara County, California",positive,271,42
+4/13/20,"Santa Clara County, California",positive,1542,43
+4/13/20,"Santa Cruz County, California",positive,82,44
+4/13/20,"Shasta County, California",positive,24,45
+4/13/20,"Sierra County, California",positive,0,46
+4/13/20,"Siskiyou County, California",positive,5,47
+4/13/20,"Solano County, California",positive,137,48
+4/13/20,"Sonoma County, California",positive,147,49
+4/13/20,"Stanislaus County, California",positive,132,50
+4/13/20,"Sutter County, California",positive,38,51
+4/13/20,"Tehama County, California",positive,1,52
+4/13/20,"Trinity County, California",positive,0,53
+4/13/20,"Tulare County, California",positive,264,54
+4/13/20,"Tuolumne County, California",positive,1,55
+4/13/20,"Ventura County, California",positive,317,56
+4/13/20,"Yolo County, California",positive,101,57
+4/13/20,"Yuba County, California",positive,15,58
+4/13/20,Unknown,positive,2,59
+4/13/20,"Alameda County, California",death,31,60
+4/13/20,"Alpine County, California",death,0,61
+4/13/20,"Amador County, California",death,0,62
+4/13/20,"Butte County, California",death,0,63
+4/13/20,"Calaveras County, California",death,0,64
+4/13/20,"Colusa County, California",death,0,65
+4/13/20,"Contra Costa County, California",death,11,66
+4/13/20,"Del Norte County, California",death,0,67
+4/13/20,"El Dorado County, California",death,0,68
+4/13/20,"Fresno County, California",death,5,69
+4/13/20,"Glenn County, California",death,0,70
+4/13/20,"Humboldt County, California",death,0,71
+4/13/20,"Imperial County, California",death,3,72
+4/13/20,"Inyo County, California",death,0,73
+4/13/20,"Kern County, California",death,3,74
+4/13/20,"Kings County, California",death,1,75
+4/13/20,"Lake County, California",death,0,76
+4/13/20,"Lassen County, California",death,0,77
+4/13/20,"Los Angeles County, California",death,320,78
+4/13/20,"Madera County, California",death,2,79
+4/13/20,"Marin County, California",death,10,80
+4/13/20,"Mariposa County, California",death,0,81
+4/13/20,"Mendocino County, California",death,0,82
+4/13/20,"Merced County, California",death,3,83
+4/13/20,"Modoc County, California",death,0,84
+4/13/20,"Mono County, California",death,1,85
+4/13/20,"Monterey County, California",death,3,86
+4/13/20,"Napa County, California",death,2,87
+4/13/20,"Nevada County, California",death,1,88
+4/13/20,"Orange County, California",death,21,89
+4/13/20,"Placer County, California",death,7,90
+4/13/20,"Plumas County, California",death,0,91
+4/13/20,"Riverside County, California",death,50,92
+4/13/20,"Sacramento County, California",death,27,93
+4/13/20,"San Benito County, California",death,2,94
+4/13/20,"San Bernardino County, California",death,31,95
+4/13/20,"San Diego County, California",death,66,96
+4/13/20,"San Francisco County, California",death,15,97
+4/13/20,"San Joaquin County, California",death,17,98
+4/13/20,"San Luis Obispo County, California",death,1,99
+4/13/20,"San Mateo County, California",death,25,100
+4/13/20,"Santa Barbara County, California",death,2,101
+4/13/20,"Santa Clara County, California",death,60,102
+4/13/20,"Santa Cruz County, California",death,1,103
+4/13/20,"Shasta County, California",death,3,104
+4/13/20,"Sierra County, California",death,0,105
+4/13/20,"Siskiyou County, California",death,0,106
+4/13/20,"Solano County, California",death,2,107
+4/13/20,"Sonoma County, California",death,2,108
+4/13/20,"Stanislaus County, California",death,2,109
+4/13/20,"Sutter County, California",death,2,110
+4/13/20,"Tehama County, California",death,1,111
+4/13/20,"Trinity County, California",death,0,112
+4/13/20,"Tulare County, California",death,13,113
+4/13/20,"Tuolumne County, California",death,0,114
+4/13/20,"Ventura County, California",death,10,115
+4/13/20,"Yolo County, California",death,4,116
+4/13/20,"Yuba County, California",death,1,117
+4/13/20,Unknown,death,0,118
+4/14/20,"Alameda County, California",positive,888,119
+4/14/20,"Alpine County, California",positive,1,120
+4/14/20,"Amador County, California",positive,7,121
+4/14/20,"Butte County, California",positive,16,122
+4/14/20,"Calaveras County, California",positive,9,123
+4/14/20,"Colusa County, California",positive,3,124
+4/14/20,"Contra Costa County, California",positive,600,125
+4/14/20,"Del Norte County, California",positive,2,126
+4/14/20,"El Dorado County, California",positive,34,127
+4/14/20,"Fresno County, California",positive,251,128
+4/14/20,"Glenn County, California",positive,4,129
+4/14/20,"Humboldt County, California",positive,51,130
+4/14/20,"Imperial County, California",positive,117,131
+4/14/20,"Inyo County, California",positive,12,132
+4/14/20,"Kern County, California",positive,516,133
+4/14/20,"Kings County, California",positive,13,134
+4/14/20,"Lake County, California",positive,5,135
+4/14/20,"Lassen County, California",positive,0,136
+4/14/20,"Los Angeles County, California",positive,10047,137
+4/14/20,"Madera County, California",positive,33,138
+4/14/20,"Marin County, California",positive,171,139
+4/14/20,"Mariposa County, California",positive,0,140
+4/14/20,"Mendocino County, California",positive,4,141
+4/14/20,"Merced County, California",positive,74,142
+4/14/20,"Modoc County, California",positive,0,143
+4/14/20,"Mono County, California",positive,23,144
+4/14/20,"Monterey County, California",positive,100,145
+4/14/20,"Napa County, California",positive,34,146
+4/14/20,"Nevada County, California",positive,34,147
+4/14/20,"Orange County, California",positive,1283,148
+4/14/20,"Placer County, California",positive,128,149
+4/14/20,"Plumas County, California",positive,0,150
+4/14/20,"Riverside County, California",positive,1961,151
+4/14/20,"Sacramento County, California",positive,739,152
+4/14/20,"San Benito County, California",positive,39,153
+4/14/20,"San Bernardino County, California",positive,977,154
+4/14/20,"San Diego County, California",positive,1847,155
+4/14/20,"San Francisco County, California",positive,987,156
+4/14/20,"San Joaquin County, California",positive,309,157
+4/14/20,"San Luis Obispo County, California",positive,120,158
+4/14/20,"San Mateo County, California",positive,721,159
+4/14/20,"Santa Barbara County, California",positive,284,160
+4/14/20,"Santa Clara County, California",positive,1666,161
+4/14/20,"Santa Cruz County, California",positive,91,162
+4/14/20,"Shasta County, California",positive,25,163
+4/14/20,"Sierra County, California",positive,0,164
+4/14/20,"Siskiyou County, California",positive,5,165
+4/14/20,"Solano County, California",positive,140,166
+4/14/20,"Sonoma County, California",positive,152,167
+4/14/20,"Stanislaus County, California",positive,146,168
+4/14/20,"Sutter County, California",positive,24,169
+4/14/20,"Tehama County, California",positive,1,170
+4/14/20,"Trinity County, California",positive,0,171
+4/14/20,"Tulare County, California",positive,264,172
+4/14/20,"Tuolumne County, California",positive,1,173
+4/14/20,"Ventura County, California",positive,350,174
+4/14/20,"Yolo County, California",positive,102,175
+4/14/20,"Yuba County, California",positive,15,176
+4/14/20,Unknown,positive,0,177
+4/14/20,"Alameda County, California",death,23,178
+4/14/20,"Alpine County, California",death,0,179
+4/14/20,"Amador County, California",death,0,180
+4/14/20,"Butte County, California",death,0,181
+4/14/20,"Calaveras County, California",death,0,182
+4/14/20,"Colusa County, California",death,0,183
+4/14/20,"Contra Costa County, California",death,11,184
+4/14/20,"Del Norte County, California",death,0,185
+4/14/20,"El Dorado County, California",death,0,186
+4/14/20,"Fresno County, California",death,5,187
+4/14/20,"Glenn County, California",death,0,188
+4/14/20,"Humboldt County, California",death,0,189
+4/14/20,"Imperial County, California",death,3,190
+4/14/20,"Inyo County, California",death,0,191
+4/14/20,"Kern County, California",death,3,192
+4/14/20,"Kings County, California",death,1,193
+4/14/20,"Lake County, California",death,0,194
+4/14/20,"Lassen County, California",death,0,195
+4/14/20,"Los Angeles County, California",death,360,196
+4/14/20,"Madera County, California",death,2,197
+4/14/20,"Marin County, California",death,10,198
+4/14/20,"Mariposa County, California",death,0,199
+4/14/20,"Mendocino County, California",death,0,200
+4/14/20,"Merced County, California",death,3,201
+4/14/20,"Modoc County, California",death,0,202
+4/14/20,"Mono County, California",death,1,203
+4/14/20,"Monterey County, California",death,3,204
+4/14/20,"Napa County, California",death,2,205
+4/14/20,"Nevada County, California",death,1,206
+4/14/20,"Orange County, California",death,19,207
+4/14/20,"Placer County, California",death,5,208
+4/14/20,"Plumas County, California",death,0,209
+4/14/20,"Riverside County, California",death,50,210
+4/14/20,"Sacramento County, California",death,28,211
+4/14/20,"San Benito County, California",death,2,212
+4/14/20,"San Bernardino County, California",death,31,213
+4/14/20,"San Diego County, California",death,47,214
+4/14/20,"San Francisco County, California",death,15,215
+4/14/20,"San Joaquin County, California",death,17,216
+4/14/20,"San Luis Obispo County, California",death,1,217
+4/14/20,"San Mateo County, California",death,21,218
+4/14/20,"Santa Barbara County, California",death,2,219
+4/14/20,"Santa Clara County, California",death,60,220
+4/14/20,"Santa Cruz County, California",death,1,221
+4/14/20,"Shasta County, California",death,3,222
+4/14/20,"Sierra County, California",death,0,223
+4/14/20,"Siskiyou County, California",death,0,224
+4/14/20,"Solano County, California",death,2,225
+4/14/20,"Sonoma County, California",death,2,226
+4/14/20,"Stanislaus County, California",death,4,227
+4/14/20,"Sutter County, California",death,3,228
+4/14/20,"Tehama County, California",death,1,229
+4/14/20,"Trinity County, California",death,0,230
+4/14/20,"Tulare County, California",death,13,231
+4/14/20,"Tuolumne County, California",death,0,232
+4/14/20,"Ventura County, California",death,13,233
+4/14/20,"Yolo County, California",death,4,234
+4/14/20,"Yuba County, California",death,1,235
+4/14/20,Unknown,death,0,236
+4/15/20,"Alameda County, California",positive,915,237
+4/15/20,"Alpine County, California",positive,1,238
+4/15/20,"Amador County, California",positive,7,239
+4/15/20,"Butte County, California",positive,16,240
+4/15/20,"Calaveras County, California",positive,11,241
+4/15/20,"Colusa County, California",positive,3,242
+4/15/20,"Contra Costa County, California",positive,645,243
+4/15/20,"Del Norte County, California",positive,2,244
+4/15/20,"El Dorado County, California",positive,35,245
+4/15/20,"Fresno County, California",positive,264,246
+4/15/20,"Glenn County, California",positive,4,247
+4/15/20,"Humboldt County, California",positive,52,248
+4/15/20,"Imperial County, California",positive,127,249
+4/15/20,"Inyo County, California",positive,17,250
+4/15/20,"Kern County, California",positive,553,251
+4/15/20,"Kings County, California",positive,13,252
+4/15/20,"Lake County, California",positive,5,253
+4/15/20,"Lassen County, California",positive,0,254
+4/15/20,"Los Angeles County, California",positive,10416,255
+4/15/20,"Madera County, California",positive,33,256
+4/15/20,"Marin County, California",positive,184,257
+4/15/20,"Mariposa County, California",positive,0,258
+4/15/20,"Mendocino County, California",positive,4,259
+4/15/20,"Merced County, California",positive,78,260
+4/15/20,"Modoc County, California",positive,0,261
+4/15/20,"Mono County, California",positive,23,262
+4/15/20,"Monterey County, California",positive,106,263
+4/15/20,"Napa County, California",positive,38,264
+4/15/20,"Nevada County, California",positive,34,265
+4/15/20,"Orange County, California",positive,1377,266
+4/15/20,"Placer County, California",positive,123,267
+4/15/20,"Plumas County, California",positive,4,268
+4/15/20,"Riverside County, California",positive,1723,269
+4/15/20,"Sacramento County, California",positive,839,270
+4/15/20,"San Benito County, California",positive,41,271
+4/15/20,"San Bernardino County, California",positive,1063,272
+4/15/20,"San Diego County, California",positive,2014,273
+4/15/20,"San Francisco County, California",positive,1006,274
+4/15/20,"San Joaquin County, California",positive,329,275
+4/15/20,"San Luis Obispo County, California",positive,124,276
+4/15/20,"San Mateo County, California",positive,707,277
+4/15/20,"Santa Barbara County, California",positive,317,278
+4/15/20,"Santa Clara County, California",positive,1692,279
+4/15/20,"Santa Cruz County, California",positive,92,280
+4/15/20,"Shasta County, California",positive,25,281
+4/15/20,"Sierra County, California",positive,0,282
+4/15/20,"Siskiyou County, California",positive,5,283
+4/15/20,"Solano County, California",positive,153,284
+4/15/20,"Sonoma County, California",positive,140,285
+4/15/20,"Stanislaus County, California",positive,174,286
+4/15/20,"Sutter County, California",positive,24,287
+4/15/20,"Tehama County, California",positive,1,288
+4/15/20,"Trinity County, California",positive,0,289
+4/15/20,"Tulare County, California",positive,289,290
+4/15/20,"Tuolumne County, California",positive,1,291
+4/15/20,"Ventura County, California",positive,365,292
+4/15/20,"Yolo County, California",positive,93,293
+4/15/20,"Yuba County, California",positive,15,294
+4/15/20,Unknown,positive,2,295
+4/15/20,"Alameda County, California",death,37,296
+4/15/20,"Alpine County, California",death,0,297
+4/15/20,"Amador County, California",death,0,298
+4/15/20,"Butte County, California",death,0,299
+4/15/20,"Calaveras County, California",death,0,300
+4/15/20,"Colusa County, California",death,0,301
+4/15/20,"Contra Costa County, California",death,14,302
+4/15/20,"Del Norte County, California",death,0,303
+4/15/20,"El Dorado County, California",death,0,304
+4/15/20,"Fresno County, California",death,7,305
+4/15/20,"Glenn County, California",death,0,306
+4/15/20,"Humboldt County, California",death,0,307
+4/15/20,"Imperial County, California",death,3,308
+4/15/20,"Inyo County, California",death,0,309
+4/15/20,"Kern County, California",death,3,310
+4/15/20,"Kings County, California",death,1,311
+4/15/20,"Lake County, California",death,0,312
+4/15/20,"Lassen County, California",death,0,313
+4/15/20,"Los Angeles County, California",death,402,314
+4/15/20,"Madera County, California",death,2,315
+4/15/20,"Marin County, California",death,10,316
+4/15/20,"Mariposa County, California",death,0,317
+4/15/20,"Mendocino County, California",death,0,318
+4/15/20,"Merced County, California",death,3,319
+4/15/20,"Modoc County, California",death,0,320
+4/15/20,"Mono County, California",death,1,321
+4/15/20,"Monterey County, California",death,3,322
+4/15/20,"Napa County, California",death,2,323
+4/15/20,"Nevada County, California",death,1,324
+4/15/20,"Orange County, California",death,22,325
+4/15/20,"Placer County, California",death,7,326
+4/15/20,"Plumas County, California",death,0,327
+4/15/20,"Riverside County, California",death,59,328
+4/15/20,"Sacramento County, California",death,32,329
+4/15/20,"San Benito County, California",death,2,330
+4/15/20,"San Bernardino County, California",death,37,331
+4/15/20,"San Diego County, California",death,60,332
+4/15/20,"San Francisco County, California",death,17,333
+4/15/20,"San Joaquin County, California",death,17,334
+4/15/20,"San Luis Obispo County, California",death,1,335
+4/15/20,"San Mateo County, California",death,25,336
+4/15/20,"Santa Barbara County, California",death,2,337
+4/15/20,"Santa Clara County, California",death,66,338
+4/15/20,"Santa Cruz County, California",death,1,339
+4/15/20,"Shasta County, California",death,3,340
+4/15/20,"Sierra County, California",death,0,341
+4/15/20,"Siskiyou County, California",death,0,342
+4/15/20,"Solano County, California",death,2,343
+4/15/20,"Sonoma County, California",death,2,344
+4/15/20,"Stanislaus County, California",death,4,345
+4/15/20,"Sutter County, California",death,2,346
+4/15/20,"Tehama County, California",death,1,347
+4/15/20,"Trinity County, California",death,0,348
+4/15/20,"Tulare County, California",death,15,349
+4/15/20,"Tuolumne County, California",death,0,350
+4/15/20,"Ventura County, California",death,13,351
+4/15/20,"Yolo County, California",death,7,352
+4/15/20,"Yuba County, California",death,1,353
+4/15/20,Unknown,death,0,354
+4/16/20,"Alameda County, California",positive,981,355
+4/16/20,"Alpine County, California",positive,1,356
+4/16/20,"Amador County, California",positive,7,357
+4/16/20,"Butte County, California",positive,15,358
+4/16/20,"Calaveras County, California",positive,10,359
+4/16/20,"Colusa County, California",positive,3,360
+4/16/20,"Contra Costa County, California",positive,675,361
+4/16/20,"Del Norte County, California",positive,2,362
+4/16/20,"El Dorado County, California",positive,35,363
+4/16/20,"Fresno County, California",positive,289,364
+4/16/20,"Glenn County, California",positive,4,365
+4/16/20,"Humboldt County, California",positive,52,366
+4/16/20,"Imperial County, California",positive,132,367
+4/16/20,"Inyo County, California",positive,17,368
+4/16/20,"Kern County, California",positive,587,369
+4/16/20,"Kings County, California",positive,20,370
+4/16/20,"Lake County, California",positive,6,371
+4/16/20,"Lassen County, California",positive,0,372
+4/16/20,"Los Angeles County, California",positive,10786,373
+4/16/20,"Madera County, California",positive,34,374
+4/16/20,"Marin County, California",positive,187,375
+4/16/20,"Mariposa County, California",positive,0,376
+4/16/20,"Mendocino County, California",positive,4,377
+4/16/20,"Merced County, California",positive,82,378
+4/16/20,"Modoc County, California",positive,0,379
+4/16/20,"Mono County, California",positive,23,380
+4/16/20,"Monterey County, California",positive,116,381
+4/16/20,"Napa County, California",positive,44,382
+4/16/20,"Nevada County, California",positive,34,383
+4/16/20,"Orange County, California",positive,1439,384
+4/16/20,"Placer County, California",positive,129,385
+4/16/20,"Plumas County, California",positive,4,386
+4/16/20,"Riverside County, California",positive,1913,387
+4/16/20,"Sacramento County, California",positive,865,388
+4/16/20,"San Benito County, California",positive,42,389
+4/16/20,"San Bernardino County, California",positive,1032,390
+4/16/20,"San Diego County, California",positive,2089,391
+4/16/20,"San Francisco County, California",positive,1039,392
+4/16/20,"San Joaquin County, California",positive,345,393
+4/16/20,"San Luis Obispo County, California",positive,125,394
+4/16/20,"San Mateo County, California",positive,745,395
+4/16/20,"Santa Barbara County, California",positive,331,396
+4/16/20,"Santa Clara County, California",positive,1789,397
+4/16/20,"Santa Cruz County, California",positive,96,398
+4/16/20,"Shasta County, California",positive,25,399
+4/16/20,"Sierra County, California",positive,0,400
+4/16/20,"Siskiyou County, California",positive,5,401
+4/16/20,"Solano County, California",positive,162,402
+4/16/20,"Sonoma County, California",positive,145,403
+4/16/20,"Stanislaus County, California",positive,185,404
+4/16/20,"Sutter County, California",positive,24,405
+4/16/20,"Tehama County, California",positive,1,406
+4/16/20,"Trinity County, California",positive,0,407
+4/16/20,"Tulare County, California",positive,305,408
+4/16/20,"Tuolumne County, California",positive,1,409
+4/16/20,"Ventura County, California",positive,384,410
+4/16/20,"Yolo County, California",positive,98,411
+4/16/20,"Yuba County, California",positive,15,412
+4/16/20,Unknown,positive,4,413
+4/16/20,"Alameda County, California",death,44,414
+4/16/20,"Alpine County, California",death,0,415
+4/16/20,"Amador County, California",death,0,416
+4/16/20,"Butte County, California",death,0,417
+4/16/20,"Calaveras County, California",death,0,418
+4/16/20,"Colusa County, California",death,0,419
+4/16/20,"Contra Costa County, California",death,16,420
+4/16/20,"Del Norte County, California",death,0,421
+4/16/20,"El Dorado County, California",death,0,422
+4/16/20,"Fresno County, California",death,7,423
+4/16/20,"Glenn County, California",death,0,424
+4/16/20,"Humboldt County, California",death,0,425
+4/16/20,"Imperial County, California",death,3,426
+4/16/20,"Inyo County, California",death,0,427
+4/16/20,"Kern County, California",death,3,428
+4/16/20,"Kings County, California",death,1,429
+4/16/20,"Lake County, California",death,0,430
+4/16/20,"Lassen County, California",death,0,431
+4/16/20,"Los Angeles County, California",death,455,432
+4/16/20,"Madera County, California",death,2,433
+4/16/20,"Marin County, California",death,10,434
+4/16/20,"Mariposa County, California",death,0,435
+4/16/20,"Mendocino County, California",death,0,436
+4/16/20,"Merced County, California",death,3,437
+4/16/20,"Modoc County, California",death,0,438
+4/16/20,"Mono County, California",death,1,439
+4/16/20,"Monterey County, California",death,3,440
+4/16/20,"Napa County, California",death,2,441
+4/16/20,"Nevada County, California",death,1,442
+4/16/20,"Orange County, California",death,26,443
+4/16/20,"Placer County, California",death,8,444
+4/16/20,"Plumas County, California",death,0,445
+4/16/20,"Riverside County, California",death,65,446
+4/16/20,"Sacramento County, California",death,32,447
+4/16/20,"San Benito County, California",death,2,448
+4/16/20,"San Bernardino County, California",death,47,449
+4/16/20,"San Diego County, California",death,63,450
+4/16/20,"San Francisco County, California",death,17,451
+4/16/20,"San Joaquin County, California",death,17,452
+4/16/20,"San Luis Obispo County, California",death,1,453
+4/16/20,"San Mateo County, California",death,25,454
+4/16/20,"Santa Barbara County, California",death,2,455
+4/16/20,"Santa Clara County, California",death,69,456
+4/16/20,"Santa Cruz County, California",death,2,457
+4/16/20,"Shasta County, California",death,3,458
+4/16/20,"Sierra County, California",death,0,459
+4/16/20,"Siskiyou County, California",death,0,460
+4/16/20,"Solano County, California",death,2,461
+4/16/20,"Sonoma County, California",death,2,462
+4/16/20,"Stanislaus County, California",death,4,463
+4/16/20,"Sutter County, California",death,2,464
+4/16/20,"Tehama County, California",death,1,465
+4/16/20,"Trinity County, California",death,0,466
+4/16/20,"Tulare County, California",death,17,467
+4/16/20,"Tuolumne County, California",death,0,468
+4/16/20,"Ventura County, California",death,13,469
+4/16/20,"Yolo County, California",death,7,470
+4/16/20,"Yuba County, California",death,1,471
+4/16/20,Unknown,death,0,472
+4/17/20,"Alameda County, California",positive,1043,473
+4/17/20,"Alpine County, California",positive,1,474
+4/17/20,"Amador County, California",positive,7,475
+4/17/20,"Butte County, California",positive,15,476
+4/17/20,"Calaveras County, California",positive,11,477
+4/17/20,"Colusa County, California",positive,3,478
+4/17/20,"Contra Costa County, California",positive,687,479
+4/17/20,"Del Norte County, California",positive,2,480
+4/17/20,"El Dorado County, California",positive,35,481
+4/17/20,"Fresno County, California",positive,315,482
+4/17/20,"Glenn County, California",positive,4,483
+4/17/20,"Humboldt County, California",positive,52,484
+4/17/20,"Imperial County, California",positive,135,485
+4/17/20,"Inyo County, California",positive,18,486
+4/17/20,"Kern County, California",positive,612,487
+4/17/20,"Kings County, California",positive,20,488
+4/17/20,"Lake County, California",positive,6,489
+4/17/20,"Lassen County, California",positive,0,490
+4/17/20,"Los Angeles County, California",positive,11354,491
+4/17/20,"Madera County, California",positive,34,492
+4/17/20,"Marin County, California",positive,189,493
+4/17/20,"Mariposa County, California",positive,0,494
+4/17/20,"Mendocino County, California",positive,4,495
+4/17/20,"Merced County, California",positive,82,496
+4/17/20,"Modoc County, California",positive,0,497
+4/17/20,"Mono County, California",positive,23,498
+4/17/20,"Monterey County, California",positive,119,499
+4/17/20,"Napa County, California",positive,46,500
+4/17/20,"Nevada County, California",positive,34,501
+4/17/20,"Orange County, California",positive,1501,502
+4/17/20,"Placer County, California",positive,130,503
+4/17/20,"Plumas County, California",positive,4,504
+4/17/20,"Riverside County, California",positive,2457,505
+4/17/20,"Sacramento County, California",positive,882,506
+4/17/20,"San Benito County, California",positive,38,507
+4/17/20,"San Bernardino County, California",positive,1096,508
+4/17/20,"San Diego County, California",positive,2160,509
+4/17/20,"San Francisco County, California",positive,1090,510
+4/17/20,"San Joaquin County, California",positive,356,511
+4/17/20,"San Luis Obispo County, California",positive,127,512
+4/17/20,"San Mateo County, California",positive,768,513
+4/17/20,"Santa Barbara County, California",positive,349,514
+4/17/20,"Santa Clara County, California",positive,1834,515
+4/17/20,"Santa Cruz County, California",positive,98,516
+4/17/20,"Shasta County, California",positive,26,517
+4/17/20,"Sierra County, California",positive,0,518
+4/17/20,"Siskiyou County, California",positive,5,519
+4/17/20,"Solano County, California",positive,173,520
+4/17/20,"Sonoma County, California",positive,167,521
+4/17/20,"Stanislaus County, California",positive,201,522
+4/17/20,"Sutter County, California",positive,24,523
+4/17/20,"Tehama County, California",positive,1,524
+4/17/20,"Trinity County, California",positive,0,525
+4/17/20,"Tulare County, California",positive,370,526
+4/17/20,"Tuolumne County, California",positive,2,527
+4/17/20,"Ventura County, California",positive,398,528
+4/17/20,"Yolo County, California",positive,117,529
+4/17/20,"Yuba County, California",positive,15,530
+4/17/20,Unknown,positive,2,531
+4/17/20,"Alameda County, California",death,44,532
+4/17/20,"Alpine County, California",death,0,533
+4/17/20,"Amador County, California",death,0,534
+4/17/20,"Butte County, California",death,0,535
+4/17/20,"Calaveras County, California",death,0,536
+4/17/20,"Colusa County, California",death,0,537
+4/17/20,"Contra Costa County, California",death,19,538
+4/17/20,"Del Norte County, California",death,0,539
+4/17/20,"El Dorado County, California",death,0,540
+4/17/20,"Fresno County, California",death,7,541
+4/17/20,"Glenn County, California",death,0,542
+4/17/20,"Humboldt County, California",death,0,543
+4/17/20,"Imperial County, California",death,3,544
+4/17/20,"Inyo County, California",death,0,545
+4/17/20,"Kern County, California",death,3,546
+4/17/20,"Kings County, California",death,1,547
+4/17/20,"Lake County, California",death,0,548
+4/17/20,"Lassen County, California",death,0,549
+4/17/20,"Los Angeles County, California",death,495,550
+4/17/20,"Madera County, California",death,2,551
+4/17/20,"Marin County, California",death,10,552
+4/17/20,"Mariposa County, California",death,0,553
+4/17/20,"Mendocino County, California",death,0,554
+4/17/20,"Merced County, California",death,3,555
+4/17/20,"Modoc County, California",death,0,556
+4/17/20,"Mono County, California",death,1,557
+4/17/20,"Monterey County, California",death,3,558
+4/17/20,"Napa County, California",death,2,559
+4/17/20,"Nevada County, California",death,1,560
+4/17/20,"Orange County, California",death,28,561
+4/17/20,"Placer County, California",death,8,562
+4/17/20,"Plumas County, California",death,0,563
+4/17/20,"Riverside County, California",death,69,564
+4/17/20,"Sacramento County, California",death,32,565
+4/17/20,"San Benito County, California",death,2,566
+4/17/20,"San Bernardino County, California",death,55,567
+4/17/20,"San Diego County, California",death,70,568
+4/17/20,"San Francisco County, California",death,20,569
+4/17/20,"San Joaquin County, California",death,17,570
+4/17/20,"San Luis Obispo County, California",death,1,571
+4/17/20,"San Mateo County, California",death,28,572
+4/17/20,"Santa Barbara County, California",death,3,573
+4/17/20,"Santa Clara County, California",death,73,574
+4/17/20,"Santa Cruz County, California",death,2,575
+4/17/20,"Shasta County, California",death,3,576
+4/17/20,"Sierra County, California",death,0,577
+4/17/20,"Siskiyou County, California",death,0,578
+4/17/20,"Solano County, California",death,2,579
+4/17/20,"Sonoma County, California",death,2,580
+4/17/20,"Stanislaus County, California",death,4,581
+4/17/20,"Sutter County, California",death,2,582
+4/17/20,"Tehama County, California",death,1,583
+4/17/20,"Trinity County, California",death,0,584
+4/17/20,"Tulare County, California",death,17,585
+4/17/20,"Tuolumne County, California",death,0,586
+4/17/20,"Ventura County, California",death,13,587
+4/17/20,"Yolo County, California",death,8,588
+4/17/20,"Yuba County, California",death,1,589
+4/17/20,Unknown,death,0,590
+4/18/20,"Alameda County, California",positive,1114,591
+4/18/20,"Alpine County, California",positive,1,592
+4/18/20,"Amador County, California",positive,7,593
+4/18/20,"Butte County, California",positive,16,594
+4/18/20,"Calaveras County, California",positive,12,595
+4/18/20,"Colusa County, California",positive,3,596
+4/18/20,"Contra Costa County, California",positive,685,597
+4/18/20,"Del Norte County, California",positive,2,598
+4/18/20,"El Dorado County, California",positive,36,599
+4/18/20,"Fresno County, California",positive,315,600
+4/18/20,"Glenn County, California",positive,4,601
+4/18/20,"Humboldt County, California",positive,52,602
+4/18/20,"Imperial County, California",positive,155,603
+4/18/20,"Inyo County, California",positive,18,604
+4/18/20,"Kern County, California",positive,610,605
+4/18/20,"Kings County, California",positive,28,606
+4/18/20,"Lake County, California",positive,6,607
+4/18/20,"Lassen County, California",positive,0,608
+4/18/20,"Los Angeles County, California",positive,12051,609
+4/18/20,"Madera County, California",positive,34,610
+4/18/20,"Marin County, California",positive,189,611
+4/18/20,"Mariposa County, California",positive,0,612
+4/18/20,"Mendocino County, California",positive,5,613
+4/18/20,"Merced County, California",positive,87,614
+4/18/20,"Modoc County, California",positive,0,615
+4/18/20,"Mono County, California",positive,23,616
+4/18/20,"Monterey County, California",positive,136,617
+4/18/20,"Napa County, California",positive,47,618
+4/18/20,"Nevada County, California",positive,36,619
+4/18/20,"Orange County, California",positive,1556,620
+4/18/20,"Placer County, California",positive,131,621
+4/18/20,"Plumas County, California",positive,4,622
+4/18/20,"Riverside County, California",positive,2602,623
+4/18/20,"Sacramento County, California",positive,914,624
+4/18/20,"San Benito County, California",positive,44,625
+4/18/20,"San Bernardino County, California",positive,1215,626
+4/18/20,"San Diego County, California",positive,2213,627
+4/18/20,"San Francisco County, California",positive,1137,628
+4/18/20,"San Joaquin County, California",positive,410,629
+4/18/20,"San Luis Obispo County, California",positive,131,630
+4/18/20,"San Mateo County, California",positive,838,631
+4/18/20,"Santa Barbara County, California",positive,385,632
+4/18/20,"Santa Clara County, California",positive,1870,633
+4/18/20,"Santa Cruz County, California",positive,101,634
+4/18/20,"Shasta County, California",positive,26,635
+4/18/20,"Sierra County, California",positive,0,636
+4/18/20,"Siskiyou County, California",positive,5,637
+4/18/20,"Solano County, California",positive,169,638
+4/18/20,"Sonoma County, California",positive,180,639
+4/18/20,"Stanislaus County, California",positive,221,640
+4/18/20,"Sutter County, California",positive,25,641
+4/18/20,"Tehama County, California",positive,1,642
+4/18/20,"Trinity County, California",positive,0,643
+4/18/20,"Tulare County, California",positive,397,644
+4/18/20,"Tuolumne County, California",positive,2,645
+4/18/20,"Ventura County, California",positive,416,646
+4/18/20,"Yolo County, California",positive,126,647
+4/18/20,"Yuba County, California",positive,16,648
+4/18/20,Unknown,positive,0,649
+4/18/20,"Alameda County, California",death,41,650
+4/18/20,"Alpine County, California",death,0,651
+4/18/20,"Amador County, California",death,0,652
+4/18/20,"Butte County, California",death,0,653
+4/18/20,"Calaveras County, California",death,0,654
+4/18/20,"Colusa County, California",death,0,655
+4/18/20,"Contra Costa County, California",death,19,656
+4/18/20,"Del Norte County, California",death,0,657
+4/18/20,"El Dorado County, California",death,0,658
+4/18/20,"Fresno County, California",death,7,659
+4/18/20,"Glenn County, California",death,0,660
+4/18/20,"Humboldt County, California",death,0,661
+4/18/20,"Imperial County, California",death,3,662
+4/18/20,"Inyo County, California",death,0,663
+4/18/20,"Kern County, California",death,3,664
+4/18/20,"Kings County, California",death,1,665
+4/18/20,"Lake County, California",death,0,666
+4/18/20,"Lassen County, California",death,0,667
+4/18/20,"Los Angeles County, California",death,577,668
+4/18/20,"Madera County, California",death,2,669
+4/18/20,"Marin County, California",death,10,670
+4/18/20,"Mariposa County, California",death,0,671
+4/18/20,"Mendocino County, California",death,0,672
+4/18/20,"Merced County, California",death,3,673
+4/18/20,"Modoc County, California",death,0,674
+4/18/20,"Mono County, California",death,1,675
+4/18/20,"Monterey County, California",death,3,676
+4/18/20,"Napa County, California",death,2,677
+4/18/20,"Nevada County, California",death,1,678
+4/18/20,"Orange County, California",death,32,679
+4/18/20,"Placer County, California",death,8,680
+4/18/20,"Plumas County, California",death,0,681
+4/18/20,"Riverside County, California",death,74,682
+4/18/20,"Sacramento County, California",death,33,683
+4/18/20,"San Benito County, California",death,2,684
+4/18/20,"San Bernardino County, California",death,57,685
+4/18/20,"San Diego County, California",death,71,686
+4/18/20,"San Francisco County, California",death,20,687
+4/18/20,"San Joaquin County, California",death,17,688
+4/18/20,"San Luis Obispo County, California",death,1,689
+4/18/20,"San Mateo County, California",death,28,690
+4/18/20,"Santa Barbara County, California",death,4,691
+4/18/20,"Santa Clara County, California",death,73,692
+4/18/20,"Santa Cruz County, California",death,2,693
+4/18/20,"Shasta County, California",death,3,694
+4/18/20,"Sierra County, California",death,0,695
+4/18/20,"Siskiyou County, California",death,0,696
+4/18/20,"Solano County, California",death,2,697
+4/18/20,"Sonoma County, California",death,2,698
+4/18/20,"Stanislaus County, California",death,4,699
+4/18/20,"Sutter County, California",death,2,700
+4/18/20,"Tehama County, California",death,1,701
+4/18/20,"Trinity County, California",death,0,702
+4/18/20,"Tulare County, California",death,17,703
+4/18/20,"Tuolumne County, California",death,0,704
+4/18/20,"Ventura County, California",death,13,705
+4/18/20,"Yolo County, California",death,8,706
+4/18/20,"Yuba County, California",death,1,707
+4/18/20,Unknown,death,0,708
+4/19/20,"Alameda County, California",positive,1114,709
+4/19/20,"Alpine County, California",positive,1,710
+4/19/20,"Amador County, California",positive,7,711
+4/19/20,"Butte County, California",positive,16,712
+4/19/20,"Calaveras County, California",positive,12,713
+4/19/20,"Colusa County, California",positive,3,714
+4/19/20,"Contra Costa County, California",positive,693,715
+4/19/20,"Del Norte County, California",positive,2,716
+4/19/20,"El Dorado County, California",positive,36,717
+4/19/20,"Fresno County, California",positive,315,718
+4/19/20,"Glenn County, California",positive,4,719
+4/19/20,"Humboldt County, California",positive,52,720
+4/19/20,"Imperial County, California",positive,155,721
+4/19/20,"Inyo County, California",positive,18,722
+4/19/20,"Kern County, California",positive,623,723
+4/19/20,"Kings County, California",positive,28,724
+4/19/20,"Lake County, California",positive,6,725
+4/19/20,"Lassen County, California",positive,0,726
+4/19/20,"Los Angeles County, California",positive,12349,727
+4/19/20,"Madera County, California",positive,34,728
+4/19/20,"Marin County, California",positive,189,729
+4/19/20,"Mariposa County, California",positive,0,730
+4/19/20,"Mendocino County, California",positive,5,731
+4/19/20,"Merced County, California",positive,90,732
+4/19/20,"Modoc County, California",positive,0,733
+4/19/20,"Mono County, California",positive,23,734
+4/19/20,"Monterey County, California",positive,141,735
+4/19/20,"Napa County, California",positive,47,736
+4/19/20,"Nevada County, California",positive,36,737
+4/19/20,"Orange County, California",positive,1636,738
+4/19/20,"Placer County, California",positive,132,739
+4/19/20,"Plumas County, California",positive,4,740
+4/19/20,"Riverside County, California",positive,2602,741
+4/19/20,"Sacramento County, California",positive,925,742
+4/19/20,"San Benito County, California",positive,44,743
+4/19/20,"San Bernardino County, California",positive,1219,744
+4/19/20,"San Diego County, California",positive,2213,745
+4/19/20,"San Francisco County, California",positive,1157,746
+4/19/20,"San Joaquin County, California",positive,415,747
+4/19/20,"San Luis Obispo County, California",positive,132,748
+4/19/20,"San Mateo County, California",positive,838,749
+4/19/20,"Santa Barbara County, California",positive,385,750
+4/19/20,"Santa Clara County, California",positive,1870,751
+4/19/20,"Santa Cruz County, California",positive,104,752
+4/19/20,"Shasta County, California",positive,26,753
+4/19/20,"Sierra County, California",positive,0,754
+4/19/20,"Siskiyou County, California",positive,5,755
+4/19/20,"Solano County, California",positive,169,756
+4/19/20,"Sonoma County, California",positive,181,757
+4/19/20,"Stanislaus County, California",positive,226,758
+4/19/20,"Sutter County, California",positive,26,759
+4/19/20,"Tehama County, California",positive,1,760
+4/19/20,"Trinity County, California",positive,0,761
+4/19/20,"Tulare County, California",positive,411,762
+4/19/20,"Tuolumne County, California",positive,2,763
+4/19/20,"Ventura County, California",positive,422,764
+4/19/20,"Yolo County, California",positive,137,765
+4/19/20,"Yuba County, California",positive,16,766
+4/19/20,Unknown,positive,0,767
+4/19/20,"Alameda County, California",death,41,768
+4/19/20,"Alpine County, California",death,0,769
+4/19/20,"Amador County, California",death,0,770
+4/19/20,"Butte County, California",death,0,771
+4/19/20,"Calaveras County, California",death,0,772
+4/19/20,"Colusa County, California",death,0,773
+4/19/20,"Contra Costa County, California",death,20,774
+4/19/20,"Del Norte County, California",death,0,775
+4/19/20,"El Dorado County, California",death,0,776
+4/19/20,"Fresno County, California",death,7,777
+4/19/20,"Glenn County, California",death,0,778
+4/19/20,"Humboldt County, California",death,0,779
+4/19/20,"Imperial County, California",death,3,780
+4/19/20,"Inyo County, California",death,0,781
+4/19/20,"Kern County, California",death,3,782
+4/19/20,"Kings County, California",death,1,783
+4/19/20,"Lake County, California",death,0,784
+4/19/20,"Lassen County, California",death,0,785
+4/19/20,"Los Angeles County, California",death,601,786
+4/19/20,"Madera County, California",death,2,787
+4/19/20,"Marin County, California",death,10,788
+4/19/20,"Mariposa County, California",death,0,789
+4/19/20,"Mendocino County, California",death,0,790
+4/19/20,"Merced County, California",death,3,791
+4/19/20,"Modoc County, California",death,0,792
+4/19/20,"Mono County, California",death,1,793
+4/19/20,"Monterey County, California",death,4,794
+4/19/20,"Napa County, California",death,2,795
+4/19/20,"Nevada County, California",death,1,796
+4/19/20,"Orange County, California",death,32,797
+4/19/20,"Placer County, California",death,8,798
+4/19/20,"Plumas County, California",death,0,799
+4/19/20,"Riverside County, California",death,75,800
+4/19/20,"Sacramento County, California",death,34,801
+4/19/20,"San Benito County, California",death,2,802
+4/19/20,"San Bernardino County, California",death,57,803
+4/19/20,"San Diego County, California",death,71,804
+4/19/20,"San Francisco County, California",death,20,805
+4/19/20,"San Joaquin County, California",death,17,806
+4/19/20,"San Luis Obispo County, California",death,1,807
+4/19/20,"San Mateo County, California",death,28,808
+4/19/20,"Santa Barbara County, California",death,4,809
+4/19/20,"Santa Clara County, California",death,73,810
+4/19/20,"Santa Cruz County, California",death,2,811
+4/19/20,"Shasta County, California",death,3,812
+4/19/20,"Sierra County, California",death,0,813
+4/19/20,"Siskiyou County, California",death,0,814
+4/19/20,"Solano County, California",death,2,815
+4/19/20,"Sonoma County, California",death,2,816
+4/19/20,"Stanislaus County, California",death,4,817
+4/19/20,"Sutter County, California",death,2,818
+4/19/20,"Tehama County, California",death,1,819
+4/19/20,"Trinity County, California",death,0,820
+4/19/20,"Tulare County, California",death,17,821
+4/19/20,"Tuolumne County, California",death,0,822
+4/19/20,"Ventura County, California",death,13,823
+4/19/20,"Yolo County, California",death,8,824
+4/19/20,"Yuba County, California",death,1,825
+4/19/20,Unknown,death,0,826
+4/20/20,"Alameda County, California",positive,1118,827
+4/20/20,"Alpine County, California",positive,1,828
+4/20/20,"Amador County, California",positive,7,829
+4/20/20,"Butte County, California",positive,15,830
+4/20/20,"Calaveras County, California",positive,12,831
+4/20/20,"Colusa County, California",positive,3,832
+4/20/20,"Contra Costa County, California",positive,753,833
+4/20/20,"Del Norte County, California",positive,2,834
+4/20/20,"El Dorado County, California",positive,36,835
+4/20/20,"Fresno County, California",positive,356,836
+4/20/20,"Glenn County, California",positive,3,837
+4/20/20,"Humboldt County, California",positive,53,838
+4/20/20,"Imperial County, California",positive,149,839
+4/20/20,"Inyo County, California",positive,17,840
+4/20/20,"Kern County, California",positive,651,841
+4/20/20,"Kings County, California",positive,19,842
+4/20/20,"Lake County, California",positive,6,843
+4/20/20,"Lassen County, California",positive,0,844
+4/20/20,"Los Angeles County, California",positive,13787,845
+4/20/20,"Madera County, California",positive,35,846
+4/20/20,"Marin County, California",positive,200,847
+4/20/20,"Mariposa County, California",positive,0,848
+4/20/20,"Mendocino County, California",positive,5,849
+4/20/20,"Merced County, California",positive,88,850
+4/20/20,"Modoc County, California",positive,0,851
+4/20/20,"Mono County, California",positive,23,852
+4/20/20,"Monterey County, California",positive,147,853
+4/20/20,"Napa County, California",positive,55,854
+4/20/20,"Nevada County, California",positive,34,855
+4/20/20,"Orange County, California",positive,1679,856
+4/20/20,"Placer County, California",positive,132,857
+4/20/20,"Plumas County, California",positive,4,858
+4/20/20,"Riverside County, California",positive,277,859
+4/20/20,"Sacramento County, California",positive,924,860
+4/20/20,"San Benito County, California",positive,43,861
+4/20/20,"San Bernardino County, California",positive,1344,862
+4/20/20,"San Diego County, California",positive,2327,863
+4/20/20,"San Francisco County, California",positive,1223,864
+4/20/20,"San Joaquin County, California",positive,422,865
+4/20/20,"San Luis Obispo County, California",positive,132,866
+4/20/20,"San Mateo County, California",positive,890,867
+4/20/20,"Santa Barbara County, California",positive,388,868
+4/20/20,"Santa Clara County, California",positive,1920,869
+4/20/20,"Santa Cruz County, California",positive,102,870
+4/20/20,"Shasta County, California",positive,26,871
+4/20/20,"Sierra County, California",positive,0,872
+4/20/20,"Siskiyou County, California",positive,5,873
+4/20/20,"Solano County, California",positive,185,874
+4/20/20,"Sonoma County, California",positive,178,875
+4/20/20,"Stanislaus County, California",positive,228,876
+4/20/20,"Sutter County, California",positive,22,877
+4/20/20,"Tehama County, California",positive,1,878
+4/20/20,"Trinity County, California",positive,0,879
+4/20/20,"Tulare County, California",positive,401,880
+4/20/20,"Tuolumne County, California",positive,2,881
+4/20/20,"Ventura County, California",positive,426,882
+4/20/20,"Yolo County, California",positive,125,883
+4/20/20,"Yuba County, California",positive,15,884
+4/20/20,Unknown,positive,2,885
+4/20/20,"Alameda County, California",death,50,886
+4/20/20,"Alpine County, California",death,0,887
+4/20/20,"Amador County, California",death,0,888
+4/20/20,"Butte County, California",death,0,889
+4/20/20,"Calaveras County, California",death,0,890
+4/20/20,"Colusa County, California",death,0,891
+4/20/20,"Contra Costa County, California",death,22,892
+4/20/20,"Del Norte County, California",death,0,893
+4/20/20,"El Dorado County, California",death,0,894
+4/20/20,"Fresno County, California",death,7,895
+4/20/20,"Glenn County, California",death,0,896
+4/20/20,"Humboldt County, California",death,0,897
+4/20/20,"Imperial County, California",death,3,898
+4/20/20,"Inyo County, California",death,0,899
+4/20/20,"Kern County, California",death,3,900
+4/20/20,"Kings County, California",death,1,901
+4/20/20,"Lake County, California",death,0,902
+4/20/20,"Lassen County, California",death,0,903
+4/20/20,"Los Angeles County, California",death,617,904
+4/20/20,"Madera County, California",death,2,905
+4/20/20,"Marin County, California",death,10,906
+4/20/20,"Mariposa County, California",death,0,907
+4/20/20,"Mendocino County, California",death,0,908
+4/20/20,"Merced County, California",death,3,909
+4/20/20,"Modoc County, California",death,0,910
+4/20/20,"Mono County, California",death,1,911
+4/20/20,"Monterey County, California",death,4,912
+4/20/20,"Napa County, California",death,2,913
+4/20/20,"Nevada County, California",death,1,914
+4/20/20,"Orange County, California",death,33,915
+4/20/20,"Placer County, California",death,8,916
+4/20/20,"Plumas County, California",death,0,917
+4/20/20,"Riverside County, California",death,89,918
+4/20/20,"Sacramento County, California",death,34,919
+4/20/20,"San Benito County, California",death,2,920
+4/20/20,"San Bernardino County, California",death,60,921
+4/20/20,"San Diego County, California",death,102,922
+4/20/20,"San Francisco County, California",death,20,923
+4/20/20,"San Joaquin County, California",death,17,924
+4/20/20,"San Luis Obispo County, California",death,1,925
+4/20/20,"San Mateo County, California",death,31,926
+4/20/20,"Santa Barbara County, California",death,4,927
+4/20/20,"Santa Clara County, California",death,83,928
+4/20/20,"Santa Cruz County, California",death,2,929
+4/20/20,"Shasta County, California",death,3,930
+4/20/20,"Sierra County, California",death,0,931
+4/20/20,"Siskiyou County, California",death,0,932
+4/20/20,"Solano County, California",death,2,933
+4/20/20,"Sonoma County, California",death,2,934
+4/20/20,"Stanislaus County, California",death,4,935
+4/20/20,"Sutter County, California",death,2,936
+4/20/20,"Tehama County, California",death,1,937
+4/20/20,"Trinity County, California",death,0,938
+4/20/20,"Tulare County, California",death,18,939
+4/20/20,"Tuolumne County, California",death,0,940
+4/20/20,"Ventura County, California",death,13,941
+4/20/20,"Yolo County, California",death,10,942
+4/20/20,"Yuba County, California",death,1,943
+4/20/20,Unknown,death,0,944
